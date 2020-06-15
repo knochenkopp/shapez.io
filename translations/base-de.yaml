@@ -124,7 +124,7 @@ mainMenu:
 
     # This is shown when using firefox and other browsers which are not supported.
     browserWarning: >-
-        Sorry, aber das Spiel wird in deinem Browser langsam laufen! Erwerbe die Standalone-Version oder downloade Chrome für die beste Erfahrung!
+        Sorry, aber das Spiel wird in deinem Browser langsam laufen! Erwerbe die Standalone-Version oder downloade Chrome für das beste Erlebnis!
 
     savegameLevel: Level <x>
     savegameLevelUnknown: Unbekanntes Level
